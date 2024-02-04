@@ -1,4 +1,4 @@
-# HelloLeaflet
- GIS Programming Leaflet Lab
+# Leaflet GeoJSON
+ GIS Programming GeoJSON Leaflet
 
-Following the quickstart guide from Leaflet
+ Following: https://leafletjs.com/examples/geojson/
